@@ -1,0 +1,7 @@
+/node_modules
+/.env
+/error.log
+/combined.log
+/logs
+/file.txt
+/keyExtract
